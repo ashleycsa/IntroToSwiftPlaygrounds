@@ -26,9 +26,23 @@ var OnMyOwnFour = OnMyOwnOne + OnMyOwnTwo + OnMyOwnThree
 
 print(OnMyOwnFour)
 
+
+
 //Assignment #2 - Introduction to True and False
 
 var appState = false
 print(appState)
 
+//Part 5
+var numberOne = 5
+var numberTwo = 7
+var comparison = numberOne < numberTwo
 
+//Part 8 - On My Own
+var TrueFalseOne = "kona"
+var TrueFalseTwo = "kona"
+var TrueorFalse = TrueFalseOne == TrueFalseTwo
+
+var TrueFalsePractice = "you got this"
+var TrueFalsePracticeAgain = "you got this"
+var TrueFalseAssignment = TrueFalsePractice == TrueFalsePracticeAgain
