@@ -26,3 +26,8 @@ var OnMyOwnFour = OnMyOwnOne + OnMyOwnTwo + OnMyOwnThree
 
 print(OnMyOwnFour)
 
+//Assignment #2 - Introduction to True and False
+
+var appState = false
+print(appState)
+
